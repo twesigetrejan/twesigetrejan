@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @twesigetrejan and am a software developer who is most interested in web and app development
+- 👋 Hi, I’m Twesige Trejan and am a software developer who is most interested in web and app development
 -  Proficient in frameworks of react.js , next.js, Django, php and react native
 -  Most used languages are javascript,typescript, python and typescript
 -  Other frameworks used include
