@@ -7,6 +7,7 @@
 - 💞️ I’m looking to collaborate on all open projects that fall under my niche
 - 📫 Reach me via
 -  e-mail @trejantwesige19@gmail.com
+-  linkedIn - https://www.linkedin.com/in/twesige-trejan-755210291/
 -  twitter @trejantwesige
 -   mobile number 0755835030.
 - ⚡ Fun fact: I am a good socialist
