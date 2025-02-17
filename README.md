@@ -3,7 +3,6 @@
 -  Most used languages are javascript,typescript, python and typescript
 -  Other frameworks used include
 -  Flutter
--  PHP
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on all open projects that fall under my niche
 - 📫 Reach me via
