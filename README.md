@@ -9,5 +9,5 @@
 -  e-mail @trejantwesige19@gmail.com
 -  linkedIn - https://www.linkedin.com/in/twesige-trejan-755210291/
 -  twitter @trejantwesige
--   mobile number 0755835030.
+-   mobile number 0755835030
 
