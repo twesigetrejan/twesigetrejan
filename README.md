@@ -1,6 +1,6 @@
 I’m Twesige Trejan and am a Full Stack web developer and UI/UX designer who is most interested in web and app development
 -  Proficient in javacript, python and typescript
-- Am familiar with react.js, Next.js, Django and Node.js and Flutter for mobile application development
+- Am familiar with react.js, Next.js, Vue.j, Django and Flutter for mobile application development
 - 
 - I’m looking to collaborate on all open projects that fall under my niche
 - 📫 Reach me via
