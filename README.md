@@ -1,12 +1,24 @@
-I’m Twesige Trejan and am a Full Stack web developer and UI/UX designer who is most interested in web and app development
--  Proficient in javacript, python and typescript
-- Am familiar with react.js, Next.js, Vue.j, Django and Flutter for mobile application development
-- 
-- I’m looking to collaborate on all open projects that fall under my niche
-- 📫 Reach me via
--  e-mail @trejantwesige19@gmail.com
--  linkedIn - https://www.linkedin.com/in/twesige-trejan-755210291/
--  twitter @trejantwesige
--   mobile number 0755835030
--   0768043037
+Hi! I’m Twesige Trejan, a passionate Full Stack Web Developer and UI/UX Designer with a strong interest in building clean, responsive, and user-centric web and mobile applications. I thrive in creating meaningful digital experiences that solve real-world problems.
+
+Technical Skills
+	•	Languages: JavaScript, TypeScript, Python
+	•	Frameworks & Libraries: React.js, Next.js, Vue.js, Django
+	•	Mobile Development: Flutter
+	•	UI/UX Tools: Figma, Adobe XD
+
+What I Do
+	•	Design and develop scalable, efficient, and visually appealing web applications
+	•	Build cross-platform mobile applications with Flutter
+	•	Craft intuitive, user-friendly interfaces and seamless user experiences
+	•	Collaborate on open-source and community-driven projects
+
+Let’s Collaborate
+
+I’m always open to collaborating on projects within my niche — whether it’s web development, mobile app development, or UI/UX design. If you have an idea or project you’re working on, feel free to reach out. I’d love to connect!
+
+Contact Me
+	•	Email: trejantwesige19@gmail.com
+	•	LinkedIn: Twesige Trejan
+	•	Twitter: @trejantwesige
+	•	Phone: +256 755 835030 | +256 768 043037
 
